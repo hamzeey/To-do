@@ -11,8 +11,9 @@ input[type=text],
 input[type=text]:focus {
     color: #fff;
     border: none;
-    background: rgba(223, 226, 15, 0.2);
+    background: rgba(96, 18, 133, 0.842);
     max-width: 400px;
+    cursor: pointer;
 }
 
 .todos li {
